@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0169_000.yaml, hash: 'sha256:f666147ebd9322690474f0d55ca20ddfc8228e828c2399f3ff666e32e454dd08'}
-  - {seq: 1, filename: KR6k0169_001.yaml, hash: 'sha256:8eca8b194a6d5add291d3c27098e0033ea36bb1f153e75e2c86c60f7da78e07c'}
+  - {seq: 0, filename: KR6k0169_000.yaml, hash: 'sha256:4e860b2034585459543637b20bbf419d08e3407e477400e37bfc368f0750b35f'}
+  - {seq: 1, filename: KR6k0169_001.yaml, hash: 'sha256:e8554f01159408ffed5ed11e5c9cf4f7124db2e683b3f201ea0a48cf9c56144c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0169_000.markers.yaml, hash: 'sha256:76810b56b0c5e42d79711abbbbf29b65ab96af9f1e8a9aa2fe07833bcafa3be2'}
-  - {seq: 1, role: markers, filename: assets/KR6k0169_001.markers.yaml, hash: 'sha256:249ae5646d3b010b32b3d76955dd25ef5152159a60afa27e04f3572fa7403d2e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0169_000.markers.yaml, hash: 'sha256:813122c188715ca01f50be4154a5b1037b8593da7c928033f934e77ce1b179e8'}
+  - {seq: 1, role: markers, filename: assets/KR6k0169_001.markers.yaml, hash: 'sha256:cb794fe20989d834f84ed299ac1eb0f202ba7c310fe157c14778b96f940549e7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 行事鈔資持記序解并五例講義
   type: juan
   level: 1
-hash: sha256:5fb60d63cf8f8d219fa51335237cfbffc523e98e6edc0bf9e475f567efaa4ea0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d0c90f5ce8cf00cecd98ac3392971871b38d3769c1ecdbb4219bee58e06c7210
