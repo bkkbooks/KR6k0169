@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0169_000-X.yaml, hash: 'sha256:4e860b2034585459543637b20bbf419d08e3407e477400e37bfc368f0750b35f'}
+  - {seq: 0, filename: KR6k0169_000-X.yaml, hash: 'sha256:86e94be4c2165a748dc75d05579cc77e8f863c82b9e7cfa28452107d173eb992'}
   - {seq: 1, filename: KR6k0169_001-X.yaml, hash: 'sha256:e8554f01159408ffed5ed11e5c9cf4f7124db2e683b3f201ea0a48cf9c56144c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0169_000-X.markers.yaml, hash: 'sha256:4abd5d7fedb4cda1404e0d151690133efe40d3e33e87c9a2cea071b33d5622fb'}
+  - {seq: 0, role: markers, filename: assets/KR6k0169_000-X.markers.yaml, hash: 'sha256:d8fd4929c50faaeaa7bfcd9bfd442154d257f347448c6ed53c1dab48e44efb4b'}
   - {seq: 1, role: markers, filename: assets/KR6k0169_001-X.markers.yaml, hash: 'sha256:9d71b5b90c6c152c3c3caa38a52c1d27e53d42a2c0ba1b1b68e8a00b83e1aee1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0169_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 740-A
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0169_X_000-mulu-2
     span:
-    - front
+    - body
     - 326
     - 326
   label: 行事鈔資持記序解并五例講義
@@ -55,4 +55,4 @@ table_of_contents:
   label: 行事鈔資持記序解并五例講義
   type: juan
   level: 1
-hash: sha256:ebac75715bdc4b1bca595ec313257aff4017f397eaed5e810317cf37c5683ca7
+hash: sha256:08c9a51f23706ba001aa4a0b4493c1b516a1b38af84c34b0bbadddcd3b322153
